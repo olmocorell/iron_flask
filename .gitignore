@@ -1,5 +1,6 @@
-# cosas del mac :)
+# cosas del mac y del proyecto
 .DS_Store
+dump/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

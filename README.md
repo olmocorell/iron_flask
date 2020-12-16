@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://github.com/agalvezcorell/iron_flask/blob/main/images/cover.jpg" /></div>
+<div style="text-align:center"><img src="https://github.com/agalvezcorell/iron_flask/blob/main/images/cover.jpg?raw=true" /></div>
 
 # Creando una API básica explain Flask en el Bootcamp de Data en Ironahck.
 La api tendrá un método POST para introducir datos y un método GET para extraer datos
