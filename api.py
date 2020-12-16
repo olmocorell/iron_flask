@@ -1,4 +1,5 @@
 from flask import Flask, request
+from config.configuration import PORT
 #instalar librería md ojito
 import markdown.extensions.fenced_code
 import random
@@ -58,23 +59,4 @@ def insertamensaje():
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-app.run(debug=True)
+app.run("0.0.0.0",PORT, debug=False)
